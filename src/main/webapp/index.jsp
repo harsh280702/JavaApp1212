@@ -9,7 +9,8 @@
 <body>
 <h1> This is the Java Apped</h1>
 <p> this is the what is parcites </p>
-<a herf="About.jsp"> About Page</a>
+<a  href="About.jsp"> About Page</a>
+
 
 
 </body>
